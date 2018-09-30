@@ -1,0 +1,10 @@
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\bin\Debug\MsgPack.dll
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\bin\Debug\MsgPack.xml
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\obj\Debug\NativeInvocationPerformance.csprojAssemblyReference.cache
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\obj\Debug\NativeInvocationPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\obj\Debug\NativeInvocationPerformance.csproj.CopyComplete
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\bin\Debug\NativeInvocationPerformance.net.dll
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\bin\Debug\NativeInvocationPerformance.net.pdb
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\obj\Debug\NativeInvocationPerformance.net.dll
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\obj\Debug\NativeInvocationPerformance.net.pdb
+C:\Users\Remco Troost\Documents\Projects\NativeInvocationPerformance\NativeInvocationPerformance\bin\Debug\CitizenFX.Client.dll
